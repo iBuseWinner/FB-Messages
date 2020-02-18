@@ -1,0 +1,11 @@
+{
+  "timerTitle": "Delay active!",
+  "timerDescription": "You can't check the level so often!\nYou can use this command again via **%cd%** seconds",
+  "timerTip": "Hint: The higher the rank, the less delay!",
+  "selfDescription": "%user_Mention%, collected all the information about your level!",
+  "otherDescription": "User level informatio %target_Mention%:",
+  "Level": "Current level",
+  "Xp": "Now xp",
+  "AddPerMsg": "+ xp for 1 message",
+  "ToNext": "xp until next level"
+}

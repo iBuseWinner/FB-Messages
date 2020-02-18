@@ -1,0 +1,10 @@
+{
+  "balanceTitle": "Balance",
+  "balanceDescription": "%user_Mention%, Your balance is **%gems%** gems!",
+  "balanceDescriptionOther": "%user_Mention%, the balance of the user %target_Mention% is **%gems%** gems!",
+  "balanceTip": "Hint: don't you have enough gems? You can always buy them in `.donate`!",
+  "payArgsTitle": "Not enough arguments!",
+  "payArgsDescription": "Please specify the user and how many gems you want to transfer to them!",
+  "payPayErrorTitle": "Error!",
+  "payPayErrorDescription": "The number cannot be less than or equal to zero!"
+}

@@ -1,0 +1,10 @@
+{
+  "balanceTitle": "Баланс",
+  "balanceDescription": "%user_Mention%, Ваш баланс составляет **%gems%** гемов!",
+  "balanceDescriptionOther": "%user_Mention%, баланс пользователя %target_Mention% составляет **%gems%** гемов!",
+  "balanceTip": "Подсказка: Мало гемов? Вы их всегда можете преобрести в `.donate`!",
+  "payArgsTitle": "Недостаточно аргументов!",
+  "payArgsDescription": "Пожалуйста, укажите пользователя и сколько Вы хотите перекинуть ему гемов!",
+  "payPayErrorTitle": "Ошибка!",
+  "payPayErrorDescription": "Число не может быть меньше или равно нулю!"
+}

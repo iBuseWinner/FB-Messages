@@ -7,7 +7,7 @@
   "blockedTitle": "You are blocked!",
   "blockedReason": "Reason:",
   "blockedDescription": "If you think this is a mistake, contact the bot's Creator or deputies.\n\nDS: iBuseWinner#6824\nVK: https://vk.com/buse_page\nTG: @buse_tg",
-  "blockedTip": "Hint: If you do not respond to private messages, then the Administration is busy!",
+  "blockedTip": "Hint: If the Administration do not respond to private messages, then he is busy!",
   "delayTitle": "Delay active!",
   "delayDescription": "At the moment, you can't use bot commands, because they are being cooldown for you!\nYou can use commands via **%cd%** seconds!",
   "delayTip": "Hint: Buying a rank, all delays on the team are reduced! (except of the bonus one!!)",

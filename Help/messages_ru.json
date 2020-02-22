@@ -14,7 +14,8 @@
   "cmdInfoCd": "Откат команды",
   "cmdInfoPerm": "Уровень прав",
   "cmdInfoAliases": "Сокращения",
-  "cmdInfoTech": "Тех.работа"
+  "cmdInfoTech": "Тех.работа",
+  "modulesTitle": "Все модули",
   "donateMainTitle": "Описание доната",
   "donateMainDescription": "%user_Mention%, здесь собран весь донат, который существует в Боте. Все цены могут изменяться. Посмотреть их можно командой `.donate <категория>`",
   "donateMainRanksName": "Ранги",

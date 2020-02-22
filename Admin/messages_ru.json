@@ -1,0 +1,9 @@
+{
+  "prefixNowTitle": "Текущий префикс",
+  "prefixNowDescription": "В данный момент в этой гильдии префикс команд `%cmd_Prefix%`!",
+  "prefixNotOwnerTitle": "Ошибка!",
+  "prefixNotOwnerDescription": "Вы не можете изменять префикс команд в данной гильдии, потому что Вы не являетесь её владельцем!",
+  "prefixSetTitle": "Успех!",
+  "prefixSetDescription": "Теперь в данной гильдии префикс команд `%cmd_Prefix%`!",
+  "prefixSetTip": "Подсказка: Вы всегда можете использовать команды через `.`!"
+}

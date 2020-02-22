@@ -4,6 +4,8 @@
   "newLevelLevel": "Уровень",
   "newLevelAward": "Награда",
   "newLevelTip": "Подсказка: Чем выше ранг, тем больше награда!",
+  "newGuildLevelDescription": "Поздравляю, %user_Mention%, Вы достигли нового уровня гильдии!",
+  "newGuildLevelLevel": "Уровень гильдии",
   "blockedTitle": "Вы заблокированы!",
   "blockedReason": "Причина:",
   "blockedDescription": "Если Вы считаете это ошибкой, то обратитесь к создателю или заместителям бота.\n\nDS: iBuseWinner#6824\nVK: https://vk.com/buse_page\nTG: @buse_tg",

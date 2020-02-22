@@ -31,5 +31,9 @@
   "commandsErrorDescription": "Пожалуйста, укажите название модуля!",
   "commandsNotFoundTitle": "Ошибка!",
   "commandsNotFoundDescription": "Пожалуйста, укажите существующий модуль!",
-  "commandsOutputTitle": "Команды модуля `%module%`"
+  "commandsOutputTitle": "Команды модуля `%module%`",
+  "languageChosenTitle": "Ваш язык",
+  "languageChosenDescription": "На данный момент Вы используете язык **%lang_Name%** (ID: %lang_Id%)",
+  "languageChangedTitle": "Язык изменён",
+  "languageChangedDescription": "Вы успешно изменили язык на ID **%lang_Id%**!"
 }
